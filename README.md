@@ -1,7 +1,3 @@
-Voici le README mis à jour en utilisant le modèle initial et en suivant l'ordre demandé :
-
----
-
 # 💱 ApiCurrency
 
 **ApiCurrency** est une API facile à utiliser qui fournit des informations de conversion de devises en temps réel. Il utilise des technologies comme Axios, Node.js (Express) et TypeScript.
